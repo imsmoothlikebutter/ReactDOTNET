@@ -100,7 +100,7 @@ export default function Manufacturer() {
       if(addedManufacturer === null){
         return;
       }
-      alert('Manufacturer successfully added. After clicking OK, your new manufacturer '+addedManufacturer.manufacturerName+'will show up in the table below.');
+      alert('Manufacturer successfully added. After clicking OK, your new manufacturer '+addedManufacturer.manufacturerName+' will show up in the table below.');
   
       getManufacturers();
     }
