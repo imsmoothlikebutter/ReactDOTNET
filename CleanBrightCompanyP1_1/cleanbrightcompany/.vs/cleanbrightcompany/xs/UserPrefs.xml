@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{674FA7E8-298F-4FD0-B761-761B3194CA41}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ManufacturersController.cs">
+    <Files>
+      <File FileName="Data/AppDBContext.cs" Line="18" Column="15" />
+      <File FileName="Models/Manufacturer.cs" Line="7" Column="8" />
+      <File FileName="Controllers/ManufacturersController.cs" Line="4" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cleanbrightcompany" expanded="True">
+            <Node name="cleanbrightcompany" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ManufacturersController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.cleanbrightcompany PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

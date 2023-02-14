@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C9DD870A-8EAF-462D-BB11-3FAD53A88364}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cleanbrightcompany/Data/AppDBContext.cs">
+    <Files>
+      <File FileName="cleanbrightcompany/Program.cs" Line="2" Column="33" />
+      <File FileName="cleanbrightcompany/Data/Manufacturer.cs" Line="4" Column="1" />
+      <File FileName="cleanbrightcompany/Data/AppDBContext.cs" Line="3" Column="6" />
+      <File FileName="cleanbrightcompany/Data/Migrations/20230211020617_FirstMigration.cs" Line="1" Column="1" />
+      <File FileName="cleanbrightcompany/Data/ManufacturersRepository.cs" Line="3" Column="33" />
+      <File FileName="cleanbrightcompany/Properties/launchSettings.json" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleanBrightCompanyP1_1" expanded="True">
+            <Node name="cleanbrightcompany" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+                <Node name="ManufacturersRepository.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.cleanbrightcompany PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
